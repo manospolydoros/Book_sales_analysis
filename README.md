@@ -1,4 +1,4 @@
-# 📦 Project_1
+# Project_2
 <p align="center">
   <img src="assets/banner.png" alt="Project Banner" width="100%">
 </p>
@@ -30,6 +30,6 @@ Data cleaning is performed inside the Powerbi file via Power Query:
 
 ## 📝 3. Results
 
-Results are presented in the powerbi file file
+Results are presented in the powerbi file file.
 
 
